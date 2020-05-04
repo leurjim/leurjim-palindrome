@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/leurjim/leurjim-palindrome/issues"
   },
-  "homepage": "https://github.com/leurjim/leurjim-palindrome#readme"
+  "homepage": "https://github.com/leurjim/leurjim-palindrome#readme",
+  "directories": {
+    "test": "test"
+  }
 }
